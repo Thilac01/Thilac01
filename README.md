@@ -88,4 +88,4 @@ Mechanical Engineering undergraduate at the University of Peradeniya with a stro
   * *Focus Areas:* Robotics & Automation, Machine Design.
 
 ---
-*Generated professionally for Thilac Ramesh. Dedicated to advancing autonomous engineering systems.*
+
