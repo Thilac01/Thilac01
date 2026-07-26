@@ -85,6 +85,10 @@ Flask-based ETL pipeline for real-time socio-economic signal monitoring, using s
 <img src="https://github-readme-stats.vercel.app/api?username=Thilac&show_icons=true&theme=transparent&hide_border=true&title_color=333333&text_color=666666&icon_color=888888" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilac&layout=compact&theme=transparent&hide_border=true&title_color=333333&text_color=666666" width="40%"/>
 
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thilac&theme=transparent&hide_border=true&background=00000000&stroke=888888&ring=333333&fire=333333&currStreakLabel=666666&sideLabels=666666&currStreakNum=333333&sideNums=333333&dates=999999" width="65%"/>
+
 </div>
 
 <br>
