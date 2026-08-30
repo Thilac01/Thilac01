@@ -4,7 +4,7 @@
 
 **Mechanical Engineering Undergraduate | Robotics, AI Systems & Applied Research**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Google%20Slides-000000?style=flat&logo=googleslides&logoColor=white)](https://docs.google.com/presentation/d/182sb...) &nbsp;·&nbsp; [![Email](https://img.shields.io/badge/Email-thilacramesh@gmail.com-000000?style=flat&logo=gmail&logoColor=white)](mailto:thilacramesh@gmail.com) &nbsp;·&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-Thilac-000000?style=flat&logo=github&logoColor=white)](https://github.com/Thilac)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Google%20Slides-000000?style=flat&logo=googleslides&logoColor=white)](https://docs.google.com/presentation/d/182sb...) &nbsp;·&nbsp; [![Email](https://img.shields.io/badge/Email-thilacramesh%40gmail.com-000000?style=flat&logo=gmail&logoColor=white)](mailto:thilacramesh@gmail.com) &nbsp;·&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-Thilac-000000?style=flat&logo=github&logoColor=white)](https://github.com/Thilac)
 
 </div>
 
@@ -70,21 +70,12 @@ Mechanical Engineering undergraduate at the University of Peradeniya, bridging h
 
 ---
 
-### Activity & Performance
+### GitHub Metrics
 
 <div align="center">
 
-<!-- Dynamic GitHub Activity Timeline Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thilac&theme=react-dark&hide_border=true&area=true&line=333333&point=666666" width="100%"/>
-
-<br>
-
 <img src="https://github-readme-stats.vercel.app/api?username=Thilac&show_icons=true&theme=transparent&hide_border=true&title_color=333333&text_color=666666&icon_color=888888&include_all_commits=true" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilac&layout=compact&theme=transparent&hide_border=true&title_color=333333&text_color=666666" width="48%"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thilac&theme=transparent&hide_border=true&background=00000000&stroke=888888&ring=333333&fire=333333&currStreakLabel=666666&sideLabels=666666&currStreakNum=333333&sideNums=333333&dates=999999" width="70%"/>
 
 </div>
 
