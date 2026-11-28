@@ -23,7 +23,7 @@ My work explores the intersection of mechanical systems, machine intelligence, a
 
 - Research Apprentice at WSO2
 - Aerodynamics Lead at Optimum Racing — Formula Student
-- GPA: 3.69/4.00
+- GPA: 3.84/4.00
 - Expected graduation: 2028
 - Open to international research internships and collaborations
 
